@@ -22,9 +22,9 @@ Reaction time is measured using a timer and an external interrupt.
 - GitHub
 
 ## Group Members
-- Name (Matric No)
-- Name (Matric No)
-- Name (Matric No)
+- RACHEL TOH JIA MIN A24KE0408
+- OOI SHEN NEE A24KE0402
+- CHEW ZHI QIN A24KE0344
 
 ## Demo Video
 Link: (Paste YouTube link here)
