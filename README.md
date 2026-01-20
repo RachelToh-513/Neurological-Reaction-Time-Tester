@@ -1,7 +1,7 @@
 # Neurological Reaction Time Tester
 
 ## Course
-SEEE3223 – C Language
+SKEE3223 MICROPROCESSOR 
 
 ## Project Description
 This project measures a user’s neurological reaction time using an STM32 microcontroller.
