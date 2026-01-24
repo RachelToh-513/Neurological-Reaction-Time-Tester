@@ -27,4 +27,4 @@ Reaction time is measured using a timer and an external interrupt.
 - CHEW ZHI QIN A24KE0344
 
 ## Demo Video
-Link: (Paste YouTube link here)
+Link: https://youtu.be/dnSKrq57zpw?si=_DQnn6WYqyzjUaLT
